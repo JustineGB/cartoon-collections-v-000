@@ -1,3 +1,4 @@
+
 lunch_menu = ["pizza", "sandwich", "sushi", "soup", "salad"]
-  lunch_menu.map { |food| "#{food}!" }
-end
+
+lunch_menu << "!"
